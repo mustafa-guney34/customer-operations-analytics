@@ -1,6 +1,7 @@
 
 # Customer Operations Analytics
 
+This project demonstrates a modular analytics architecture separating data loading, feature engineering, analysis, and model validation.
 
 ## Executive Summary
 
